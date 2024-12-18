@@ -45,8 +45,6 @@ public class CuentaCorriente extends CuentaBancaria {
         System.out.println("Sobregiro: " + sobregiro);
     }
 }
-
-
       
 }
 
@@ -56,4 +54,3 @@ public class CuentaCorriente extends CuentaBancaria {
     
     
     
-}
