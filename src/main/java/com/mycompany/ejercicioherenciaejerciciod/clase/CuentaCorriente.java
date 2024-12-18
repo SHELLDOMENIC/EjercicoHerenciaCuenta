@@ -5,8 +5,8 @@
 package com.mycompany.ejercicioherenciaejerciciod.clase;
 
 
-public class CuentaCorriente extends EjercicioHerenciaEjerciciod {
-    public class CuentaCorriente extends EjercicioHerenciaEjerciciod {
+public class CuentaCorriente extends CuentaBancaria {
+    public class CuentaCorriente extends CuentaBancaria{
     private float sobregiro;
 
     public CuentaCorriente(float saldo, float tasaAnual) {
